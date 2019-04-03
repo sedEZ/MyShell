@@ -5,4 +5,4 @@ Also , type "quit"."exit"."logout"."bye" can exit the process
 
 Useage:
 
-    {$pwd}/shell  [commannds]  [&]
+    {$pwd}/shell [commannds] [&]
